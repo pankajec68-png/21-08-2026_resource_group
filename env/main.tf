@@ -1,5 +1,5 @@
 module "reman" {
-    source = "../resource"
-    res = var.reema
-  
+  source = "../resource"
+  res    = var.reema
+
 }
